@@ -1,6 +1,6 @@
 # Project Anon
 ## NOTE:
-**This is the public version, there's about 200 commits to the original**
+**This is the public version, there's about 200 commits to the original**  
 This is my attempt to create a social media platform.
 This software was made to practice my skills on full stack development and see how I can implement some basic security measures into my code.
 
